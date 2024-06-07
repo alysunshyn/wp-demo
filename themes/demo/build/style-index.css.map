@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACE;EACA;ACCF,C","sources":["webpack://vpawards/./css/base/base.scss","webpack://vpawards/./css/style.scss"],"sourcesContent":["html {\n  color: orange;\n  background-color: black;\n  \n}\n","html {\n  color: orange;\n  background-color: black;\n}"],"names":[],"sourceRoot":""}

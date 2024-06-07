@@ -1,0 +1,9 @@
+node_modules/
+/uploads
+/upgrade
+/index.php
+/themes/index.php
+/plugins/index.php
+.DS_Store
+
+

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "vp-awards-theme/template-block",
+  "category": "widget",
+  "title": "Template Block",
+  "description": "A template block as a base for new block creations",
+  "example": {},
+  "supports": {
+    "interactivity": true
+  },
+  "textdomain": "template-block",
+  "keywords": [
+    "template",
+    "block"
+  ],
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php",
+  "viewScriptModule": "file:./view.js"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "demo/template-block",
+  "category": "widget",
+  "title": "Template Block",
+  "description": "A template block as a base for new block creations",
+  "example": {},
+  "supports": {
+    "interactivity": true
+  },
+  "textdomain": "template-block",
+  "keywords": ["template", "block"],
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php",
+  "viewScriptModule": "file:./view.js"
+}
